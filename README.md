@@ -1,0 +1,1 @@
+# python-to-construct-the-following-pattern-using-a-nested-for-loop
